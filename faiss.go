@@ -5,7 +5,7 @@
 package faiss
 
 /*
-#cgo LDFLAGS: -L/usr/local/lib -lfaiss_c
+#cgo LDFLAGS: -lfaiss_c
 
 #include <faiss/c_api/Index_c.h>
 #include <faiss/c_api/error_c.h>

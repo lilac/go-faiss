@@ -1,8 +1,6 @@
 package faiss
 
 /*
-#cgo CFLAGS: -I/usr/local/include
-
 #include <stdlib.h>
 #include <faiss/c_api/AutoTune_c.h>
 */
