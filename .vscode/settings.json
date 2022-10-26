@@ -1,0 +1,6 @@
+{
+    "go.toolsEnvVars": {
+        "CGO_CFLAGS": "-g -O2 -I/usr/local/include",
+        "CGO_LDFLAGS": "-g -O2 -L/usr/local/lib"
+    }
+}
